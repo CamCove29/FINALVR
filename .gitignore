@@ -1,0 +1,22 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de Visual Studio
+*.user
+*.csproj
+*.sln
+*.suo
+*.vscode
+
+# Directorios de Unity
+Library/
+Temp/
+Obj/
+Logs/
+MemoryCaptures/
+
+# Directorios de Build
+Build/
+Builds/
+
